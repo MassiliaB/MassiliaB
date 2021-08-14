@@ -29,4 +29,4 @@ Student @ 42 Paris since November 2020
 
    ✨                    Current cursus progress                   ✨ 
   
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/masboula?privacyEmail=true)](https://github.com/MassiliaB)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/masboula?privacyName=true)](https://github.com/MassiliaB)
