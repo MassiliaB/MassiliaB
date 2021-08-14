@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 Student @ 42 Paris since November 2020
 
-                🌱 Basic knowledge
+  🌱 Basic knowledge
+
 ![image](https://img.shields.io/badge/-C-9cf?style=for-the-badge&logo=C)
 ![image](https://img.shields.io/badge/-%20git-lightgrey?style=for-the-badge&logo=git)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
