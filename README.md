@@ -27,4 +27,5 @@ Student @ 42 Paris since November 2020
 ![image](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)
 ![image](https://img.shields.io/badge/-css-blueviolet?style=for-the-badge&logo=css)
 
+  ✨ Current cursus progress
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/masboula?privacyEmail=true)](https://github.com/MassiliaB)
