@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Student @ 42 Paris since November 2020
 
-  🌱 Basic knowledge
+   🌱                     Basic knowledge                         🌱
 
 ![image](https://img.shields.io/badge/-C-9cf?style=for-the-badge&logo=C)
 ![image](https://img.shields.io/badge/-%20git-lightgrey?style=for-the-badge&logo=git)
@@ -27,6 +27,6 @@ Student @ 42 Paris since November 2020
 ![image](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)
 ![image](https://img.shields.io/badge/-css-blueviolet?style=for-the-badge&logo=css)
 
-  ✨ Current cursus progress
+   ✨                    Current cursus progress                   ✨ 
   
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/masboula?privacyEmail=true)](https://github.com/MassiliaB)
