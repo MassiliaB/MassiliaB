@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Student @ 42 Paris since November 2020
+Student @ 42 Paris
 
    🌱                     Basic knowledge                         🌱
 
