@@ -20,13 +20,14 @@ Student @ 42 Paris
    🌱                     Basic knowledge :                         🌱
 
 ![image](https://img.shields.io/badge/-C-9cf?style=for-the-badge&logo=C&logoColor=white)
+![image](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge)
 ![image](https://img.shields.io/badge/-%20git-lightgrey?style=for-the-badge&logo=git)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![image](https://img.shields.io/badge/-asm-informational?style=for-the-badge&logo=asm)
 ![image](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)
 ![image](https://img.shields.io/badge/-css-blueviolet?style=for-the-badge&logo=css)
-![image](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge)
+
 
 📫 How to reach me:
 
