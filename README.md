@@ -26,10 +26,7 @@ Student @ 42 Paris
 ![image](https://img.shields.io/badge/-asm-informational?style=for-the-badge&logo=asm)
 ![image](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)
 ![image](https://img.shields.io/badge/-css-blueviolet?style=for-the-badge&logo=css)
-
-   ✨                    Current cursus progress                   ✨ 
-  
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/masboula?privacyName=true)](https://github.com/MassiliaB)
+![image](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge)
 
 📫 How to reach me:
 
