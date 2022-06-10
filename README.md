@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Student @ 42 Paris
 
-   🌱                     Basic knowledge :                         🌱
+   🌱                     You will find here project coded in :                         🌱
 
 ![image](https://img.shields.io/badge/-C-9cf?style=for-the-badge&logo=C&logoColor=white)
 ![image](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge)
