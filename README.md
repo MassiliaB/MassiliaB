@@ -32,8 +32,8 @@ Student @ 42 Paris
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/MassiliaB)
 
 
-[![html](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)](https://github.com/MassiliaB)
-[![css](https://img.shields.io/badge/-css-blueviolet?style=for-the-badge&logo=css)](https://github.com/MassiliaB)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MassiliaB)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MassiliaB)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/MassiliaB)
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/MassiliaB)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MassiliaB)
