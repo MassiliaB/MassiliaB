@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Student @ 42 Paris
 
-   🌱                    Technical Skills:                         🌱
+###   🌱                    Technical Skills:                         🌱
 
 [![C](https://img.shields.io/badge/-C-9cf?style=for-the-badge&logo=C&logoColor=white)](https://github.com/MassiliaB)
 [![c++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge)](https://github.com/MassiliaB)
@@ -38,6 +38,6 @@ Student @ 42 Paris
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/MassiliaB)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MassiliaB)
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 masboula@student.42.fr
