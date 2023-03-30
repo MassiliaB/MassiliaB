@@ -22,7 +22,7 @@ Student @ 42 Paris
 [![C](https://img.shields.io/badge/-C-9cf?style=for-the-badge&logo=C&logoColor=white)](https://github.com/MassiliaB)
 [![c++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge)](https://github.com/MassiliaB)
 [![asm](https://img.shields.io/badge/-asm-informational?style=for-the-badge&logo=asm)](https://github.com/MassiliaB)
-
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MassiliaB)
 
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MassiliaB)
