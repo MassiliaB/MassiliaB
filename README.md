@@ -38,6 +38,3 @@ Student @ 42 Paris
 ###[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/MassiliaB)
 ###[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MassiliaB)
 -->
-### 📫 How to reach me:
-
-masboula@student.42.fr
